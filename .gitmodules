@@ -1,0 +1,3 @@
+[submodule "lab4/cinema"]
+	path = lab4/cinema
+	url = https://github.com/SpectraL519/cinema.git
